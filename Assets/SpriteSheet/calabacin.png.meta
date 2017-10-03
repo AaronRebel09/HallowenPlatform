@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 656763e8a22c97347a7d458121bd0f9d
+timeCreated: 1506240559
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: calabacin_idle_0
+    21300002: calabacin_idle_1
+    21300004: calabacin_idle_2
+    21300006: calabacin_idle_3
+    21300008: calabacin_idle_4
+    21300010: calabacin_idle_5
+    21300012: calabacin_idle_6
+    21300014: calabacin_idle_7
+    21300016: calabacin_jump_0
+    21300018: calabacin_jump_1
+    21300020: calabacin_jump_2
+    21300022: calabacin_jump_3
+    21300024: calabacin_jump_4
+    21300026: calabacin_jump_6
+    21300028: calabacin_jump_7
+    21300030: calabacin_die_0
+    21300032: calabacin_die_1
+    21300034: calabacin_die_2
+    21300036: calabacin_die_3
+    21300038: calabacin_die_4
+    21300040: calabacin_die_5
+    21300042: hallowen
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calabacin_idle_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 967
+        width: 143
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_idle_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 967
+        width: 146
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_idle_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 967
+        width: 145
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_idle_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 967
+        width: 143
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_idle_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 967
+        width: 144
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_idle_5
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 967
+        width: 143
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 967
+        width: 155
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 967
+        width: 143
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_jump_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 550
+        width: 170
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_jump_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 549
+        width: 184
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_jump_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 597
+        width: 158
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_jump_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 677
+        width: 177
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_jump_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 595
+        width: 186
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_jump_6
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 550
+        width: 182
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_jump_7
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 550
+        width: 171
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_die_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 172
+        width: 170
+        height: 229
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_die_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 178
+        width: 208
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_die_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 172
+        width: 197
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_die_3
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 170
+        width: 195
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_die_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 164
+        width: 247
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calabacin_die_5
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 163
+        width: 252
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hallowen
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1397
+        width: 1007
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: anim_calabacin_idle
+  assetBundleVariant: 
